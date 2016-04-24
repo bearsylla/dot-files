@@ -1,0 +1,5 @@
+alias lunar='lunar -u -s'
+alias youtube-mp3='youtube-dl -x --audio-format mp3'
+alias rsync-resume='rsync -avz --partial --progress --rsh=ssh'
+alias nvlc='nvlc --no-video'
+alias youtube-dl='youtube-dl -f best'
